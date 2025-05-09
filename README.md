@@ -1,7 +1,7 @@
 <br>
-<div>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=1000&color=00B5E2&vCenter=true&width=600&lines=Hi+there+👋;Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Crafting+seamless+user+experiences">
-</div>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=1000&color=00B5E2&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Crafting+seamless+user+experiences)
+
 <br>
 
 ## ✨ 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
